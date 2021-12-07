@@ -8,8 +8,8 @@
 
 ## Installation
 ```powershell
-git clone https://github.com/IntelliTect-Samples/SpokanePythonUserGroup.git
-cd ./SpokanePythonUserGroup/2021.06.15-Typing/
+git clone https://github.com/python-spokane/typing-for-fun-and-profit
+cd typing-for-fun-and-profit
 python -m virtualenv ./.venv
 ./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
